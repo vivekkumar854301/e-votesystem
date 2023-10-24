@@ -1,0 +1,8 @@
+{
+  "files.associations": {
+    "utility": "cpp",
+    "forward_list": "cpp",
+    "deque": "cpp"
+  },
+  "python.formatting.provider": "autopep8"
+}
